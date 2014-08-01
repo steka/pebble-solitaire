@@ -1,0 +1,128 @@
+{
+  "uuid": "f8043138-6757-416c-91ad-fb7d85f35abe",
+  "shortName": "Solitaire",
+  "longName": "Solitaire",
+  "companyName": "calamari Software",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_CARD",
+        "file": "card.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BACK",
+        "file": "back.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_EDGE",
+        "file": "edge.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SELECTOR",
+        "file": "selector.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_MODE1",
+        "file": "mode1.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_A",
+        "file": "A.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_2",
+        "file": "2.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_3",
+        "file": "3.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_4",
+        "file": "4.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_5",
+        "file": "5.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_6",
+        "file": "6.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_7",
+        "file": "7.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_8",
+        "file": "8.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_9",
+        "file": "9.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_10",
+        "file": "10.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_J",
+        "file": "J.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_Q",
+        "file": "Q.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_K",
+        "file": "K.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SPADE",
+        "file": "spade.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_CLUB",
+        "file": "club.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_HEART",
+        "file": "heart.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_DIAMOND",
+        "file": "diamond.png"
+      }
+    ]
+  }
+}
