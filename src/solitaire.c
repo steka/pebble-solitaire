@@ -66,7 +66,7 @@ static bool win;
 
 // text area
 static char* HELP_TEXT = "Controls\n\n"
-				"Up: Select next card pile.\n\n"
+				"Up: Select next card pile. Automatically skips ineligible piles.\n\n"
 				"Select: Begin or complete a card move.\n\n"
 				"Down (short): Deal card to talon or abort a card move in progress.\n\n"
 				"Down (long): Automatically move cards from tableau to foundation piles.\n\n"

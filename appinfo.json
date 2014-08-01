@@ -122,6 +122,12 @@
         "type": "png",
         "name": "IMAGE_DIAMOND",
         "file": "diamond.png"
+      },
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "logo.png"
       }
     ]
   }
